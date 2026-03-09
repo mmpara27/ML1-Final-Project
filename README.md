@@ -1,5 +1,11 @@
 # ML1 Final Project
 
+## About
+This project is our code for the Final Project in the UChicago Machine Learning 1 Course for the Winter 2026 Quarter, where we predicted employee attrition with the dataset from Kaggle
+
+## Authors
+Cathy Nie, Monica Para, Hannah Ko, Kelly Sun, Victoria Li, Rhett Bergeson
+
 ## Running the Project
 
 ### Disclaimer
