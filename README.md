@@ -31,8 +31,10 @@ drive.mount('/content/drive')
 
 Run the notebooks **in the following order**:
 
-1. `data_cleaning.ipynb`  
-2. `modeling_notebook_1.ipynb`  
-3. `modeling_notebook_2.ipynb`  
+1. `Data_Cleaning.ipynb`  
+2. `Modeling.ipynb`  
+3. `Modeling_Part2.ipynb`
+
+The provided dataset is `employee_attrition_data.csv`
 
 The first notebook cleans and prepares the dataset. The remaining notebooks train and evaluate the machine learning models.
